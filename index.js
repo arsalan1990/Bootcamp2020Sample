@@ -1,2 +1,2 @@
-var name = "Welcome to My Website";
+var name = "Welcome to My Website"
 alert(name);
